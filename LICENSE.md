@@ -1,2 +1,0 @@
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
-Это произведение доступно по лицензии Creative Commons «Attribution-ShareAlike» («Атрибуция — На тех же условиях») 4.0 Всемирная. Чтобы увидеть копию этой лицензии, посетите http://creativecommons.org/licenses/by-sa/4.0/.
